@@ -1,5 +1,12 @@
-{
+[
+   {
    "type": "esp32Hp",
    "version": "5.3",
    "url": "https://raw.githubusercontent.com/Proyectossole/Freidora-Cerrada-HP./main/fw.bin"
-}
+   },
+   {
+   "type":"EspCV3",
+   "version":"1.0",
+   "url": "https://raw.githubusercontent.com/Proyectossole/Freidora-Cerrada-HP./main/esp-calor-V3.ino.bin"
+   }
+]
