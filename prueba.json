@@ -4,8 +4,9 @@
   "parameter1": 10,
   "parameter2": 10.5
    },
+   {
   "id": "55",
   "parameter1": 20,
   "parameter2": 20.5
-  }
+   }
 }
