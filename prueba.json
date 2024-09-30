@@ -1,12 +1,10 @@
 {
-   {
-  "id": "53",
-  "parameter1": 10,
-  "parameter2": 10.5
-   },
-   {
-  "id": "55",
-  "parameter1": 20,
-  "parameter2": 20.5
-   }
+  "3": {
+    "param1": 10,
+    "param2": "valor1"
+  },
+  "55": {
+    "param1": 20,
+    "param2": "valor2"
+  }
 }
