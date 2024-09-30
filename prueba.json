@@ -1,14 +1,11 @@
 {
-  "devices": {
-    "123456": {
-      "parametro1": "prueba1",
-      "parametro2": -10,
-      "parametro3": -10.16
-    },
-    "12345": {
-      "parametro1": "prueba2",
-      "parametro2": -20,
-      "parametro3": -20.16
-    }
+   {
+  "id": "53",
+  "parameter1": 10,
+  "parameter2": 10.5
+   },
+  "id": "55",
+  "parameter1": 20,
+  "parameter2": 20.5
   }
 }
