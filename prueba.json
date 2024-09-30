@@ -1,14 +1,17 @@
 {
   "55": {
-    "param1": 10,
-    "param2": "valor1"
+    "VRed": 110,
+    "Vtrans": "24.10",
+    "ATemp": "-10"
   },
   "5": {
-    "param1": 20,
-    "param2": "valor2"
+    "VRed": 120,
+    "Vtrans": "24.20",
+    "ATemp": "-20"
   },
   "56": {
-    "param1": 30,
-    "param2": "valor3"
+    "VRed": 130,
+    "Vtrans": "24.20",
+    "ATemp": "-30"
   }
 }
