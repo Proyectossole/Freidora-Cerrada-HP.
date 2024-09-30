@@ -1,5 +1,14 @@
 {
-  "parametro1": "prueba",
-  "parametro2": -40,
-  "parametro3": -30.16
+  "devices": {
+    "123456": {
+      "parametro1": "prueba1",
+      "parametro2": -10,
+      "parametro3": -10.16
+    },
+    "esp32P": {
+      "parametro1": "prueba2",
+      "parametro2": -20,
+      "parametro3": -20.16
+    }
+  }
 }
