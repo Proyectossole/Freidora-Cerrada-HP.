@@ -1,7 +1,7 @@
 {
-    "VersionConfig": 1,
+    "VersionConfig": 2,
     "Placa": "10028-28",
     "VRed": 119.8,
     "Vtrans": 27.92,
-    "ATemp": -20
+    "ATemp": 0
 }
