@@ -1,9 +1,9 @@
 {
-    "VersionConfig": 3,
+    "VersionConfig": 4,
     "Placa": "10028-28",
     "VRed": 119.8,
     "Vtrans": 27.92,
     "ATemp": 0,
-    "TiempOn": 10,
+    "TiempOn": 30,
     "TiempOff": 600
 }
