@@ -1,0 +1,10 @@
+{
+   "VersionConfig": 0,
+    "Placa": "4753848",
+    "IdP": "5672ff0d-5b62-4b90-a20d-1e07761552cb",
+    "VRed": 110,
+    "Vtrans": 24.10,
+    "ATemp": 0,
+    "TiempOn": 30,
+    "TiempOff": 600
+}
