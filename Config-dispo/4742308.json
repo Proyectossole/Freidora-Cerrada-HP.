@@ -1,9 +1,10 @@
 {
     "VersionConfig": 0,
-    "Placa": "nuevo-58",
+    "Placa": "1049229-52",
+    "IdP": "123eb1f7-3685-4e70-9cd2-4a2caed75fae",
     "VRed": 110,
     "Vtrans": 24.10,
-    "ATemp": 0,
+    "ATemp": 16,
     "TiempOn": 30,
     "TiempOff": 600
 }
