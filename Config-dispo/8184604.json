@@ -1,9 +1,9 @@
 {
-    "VersionConfig": 1,
+    "VersionConfig": 2,
     "Placa": "AN1811039",
     "IdP": "9b486964-a28a-4143-9e33-4915735c8bb9",
-    "VRed": 110,
-    "Vtrans": 24.10,
+    "VRed": 122.7,
+    "Vtrans": 26.29,
     "ATemp": 0,
     "TiempOn": 30,
     "TiempOff": 600
