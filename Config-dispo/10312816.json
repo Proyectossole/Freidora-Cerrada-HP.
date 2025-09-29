@@ -1,0 +1,11 @@
+{
+    "VersionConfig": 1,
+    "Placa": "Prueba01",
+    "IdP": "0000222333",
+    "VRed": 114.7,
+    "Vtrans": 25.35,
+    "ATemp": -5,
+    "TiempOn": 30,
+    "TiempOff": 600,
+    "ActiHoraW": 0
+}
