@@ -6,5 +6,6 @@
     "Vtrans": 24.10,
     "ATemp": 0,
     "TiempOn": 30,
-    "TiempOff": 600
+    "TiempOff": 600,
+    "ActiHoraW": 0
 }
