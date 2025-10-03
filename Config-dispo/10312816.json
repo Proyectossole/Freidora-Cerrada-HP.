@@ -7,5 +7,6 @@
     "ATemp": -5,
     "TiempOn": 30,
     "TiempOff": 600,
-    "ActiHoraW": 0
+    "ActiHoraW": 0,
+    "AP": 0.0
 }
