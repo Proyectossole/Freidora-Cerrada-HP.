@@ -1,12 +1,12 @@
 {
-    "VersionConfig": 1,
+    "VersionConfig": 2,
     "Placa": "FC-pradera-3",
     "IdP": "1941ee26-cc4d-4963-9a18-72486cfb5688",
     "VRed": 123.0,
     "Vtrans": 28.0,
     "ATemp": 0,
     "TiempOn": 30,
-    "TiempOff": 600,
+    "TiempOff": 1800,
     "ActiHoraW": 0,
     "AP": 0.0
 }
