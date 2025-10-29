@@ -9,6 +9,6 @@
     "TiempOff": 1800,
     "ActiHoraW": 0,
     "AP": 0.0,
-    "ADC-Min": 1300,
+    "ADC-Min": 1300, //ssss
     "ADC-Max": 1617
 }
