@@ -10,5 +10,7 @@
     "ActiHoraW": 0,
     "AP": 0.0,
     "ADC-Min": 1300,
-    "ADC-Max": 1617
+    "ADC-Max": 1617,
+    "TiempoA": 30,
+    "TiempoCW": 10
 }
