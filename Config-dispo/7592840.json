@@ -8,5 +8,7 @@
     "TiempOn": 30,
     "TiempOff": 1800,
     "ActiHoraW": 0,
-    "AP": 0.0
+    "AP": 0.0,
+    "ADC-Min": 0,
+    "ADC-Max": 0
 }
