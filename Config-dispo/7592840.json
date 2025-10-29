@@ -1,5 +1,5 @@
 {
-    "VersionConfig": 7,
+    "VersionConfig": 8,
     "Placa": "1044133-43",
     "IdP": "ca539033-3794-46d2-b2a1-ee9032b41637",
     "VRed": 124.6,
@@ -9,6 +9,6 @@
     "TiempOff": 1800,
     "ActiHoraW": 0,
     "AP": 0.0,
-    "ADC-Min": 1336,
+    "ADC-Min": 1316,
     "ADC-Max": 1617
 }
