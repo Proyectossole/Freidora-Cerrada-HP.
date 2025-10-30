@@ -9,8 +9,9 @@
     "TiempOff": 1800,
     "ActiHoraW": 0,
     "AP": 0.0,
-    "ADC-Min": 1300,
-    "ADC-Max": 1617,
+    "ADC-Min": 1340,
+    "ADC-Max": 1400,
     "TiempoA": 30,
-    "TiempoCW": 10
+    "TiempoCW": 10,
+    "ADC-R": 0
 }
