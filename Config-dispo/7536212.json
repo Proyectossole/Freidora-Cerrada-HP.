@@ -12,5 +12,6 @@
     "ADC-Min": 14115,
     "ADC-Max": 15032,
     "TiempoA": 10,
-    "TiempoCW": 2
+    "TiempoCW": 2,
+    "ADC-R": 1
 }
