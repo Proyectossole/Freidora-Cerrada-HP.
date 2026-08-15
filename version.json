@@ -5,6 +5,11 @@
    "url": "https://raw.githubusercontent.com/Proyectossole/Freidora-Cerrada-HP./main/FC3.1.ino.bin"
    },
    {
+   "type":"PR4.0",
+   "version":"0.9",
+   "url": "https://raw.githubusercontent.com/Proyectossole/Freidora-Cerrada-HP./main/Vibrancy_test.ino.bin"
+   },
+   {
    "type":"FC4.0",
    "version":"1.9",
    "url": "https://raw.githubusercontent.com/Proyectossole/Freidora-Cerrada-HP./main/FC4.0.ino.bin"
